@@ -1,0 +1,53 @@
+.body{
+    height: 100%;
+    z-index: 100;
+
+}
+
+.corpo{
+    z-index: 100;
+    display: flex;
+    justify-content: space-between;
+    align-items: space-between;
+    flex-direction: row;
+    height: 10vh;
+    padding-top: 15px
+
+}
+
+.icone{
+
+    width: 180px;
+    height: 40px;
+    border-radius: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+.fale-conosco{
+
+    color: rgb(155,157,158);
+    text-decoration: none;
+    margin-top: 7px
+
+}
+
+.fale-conosco:hover{
+
+    color: rgb(155,157,158);
+    text-decoration: none;
+
+}
+
+a{
+
+    text-decoration: none;
+    color: black;
+    margin-left: 5px;
+
+}
+
+a:hover{
+    color: black;
+}

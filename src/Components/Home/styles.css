@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* .body{
+    height: 100vh;
+}
+
+.container-produtos{
+    display: flex;
+    flex-flow: row wrap;
+   background-color: rgb(248, 248, 248);
+}
+.card-produto{
+    margin: 10px;
+} */
+
+.back{
+
+    height:130vh;
+    width: 99vw;
+    background-image: url(https://cdn.discordapp.com/attachments/979120601966997514/988937402519273502/dashboard.png);
+    background-repeat: no-repeat;
+    background-size: 100vmax;
+    overflow-x: hidden;
+
+}
+
+Fotter{
+
+margin: 0;
+
+}
+
+/* .footer{
+    align-items: end;
+    margin-top: 3vh;
+} */

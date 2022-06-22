@@ -1,0 +1,25 @@
+.fale-conosco-form{
+
+    border: 1px solid gray;
+    height: 50vh;
+    width: 90vw;
+    margin: 0 auto;
+    margin-top: 15vh;
+    margin-bottom: 15vh;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px 10px gray;
+}
+
+.botao-fale-conosco:hover{
+
+    background-color: white;
+    color: black; 
+    transition: 0.1s;
+    border: 2px solid black;
+    font-weight: 500;
+}
+
+.textarea{
+    resize: none;
+}
